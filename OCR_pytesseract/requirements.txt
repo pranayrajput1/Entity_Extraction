@@ -7,3 +7,5 @@ spacy~=3.2.1
 # $ python -m spacy download en_core_web_sm
 pdf2image~=1.16.0
 pandas~=1.3.5
+#INSTALL Regex
+#pip install regex
